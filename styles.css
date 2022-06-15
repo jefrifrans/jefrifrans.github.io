@@ -1,0 +1,36 @@
+body{
+    font-family: sans;
+    background-image: url('tes.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+h1{
+text-align: center;
+margin-top: 170px;
+color: white;
+font-size: 40px;
+
+}
+button{
+    font-family: sans-serif;
+    font-size: 20px;
+    background:#063be7;
+    color: whitesmoke;
+    border: white 1px solid;
+    padding: 10px 20px;  
+}
+.button1:hover, .button2:hover, .button3:hover {
+    background-color: white;
+    color: black;
+}
+.button3{
+    margin-left: 470px;
+}
+.about1{
+    text-align: left;
+    margin-top: 170px;
+    margin-left: 60px;
+    color: white;
+    font-size: 20px;  
+}
